@@ -1,24 +1,25 @@
-# app
+# Workshop 3.1
 
-## Project setup
+Проект-заготовка к которому будем подключать ui-kit библиотеку.
+
+## Установка зависимостей
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Режим разработчки и hot-reloads
+
+*Hot-reloads - горячая перезагрузка браузера на localhost, при сохранении любого из наблюдаемых файлов
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Сборка проекта
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Проверка файлов на соответсвие код-стилю и автоматическая правка
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
